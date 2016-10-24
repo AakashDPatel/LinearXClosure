@@ -1,0 +1,12 @@
+ABCDEFGHIJ
+AB->E
+AG->J
+BE->I
+E->G
+GI->H
+#
+BHE
+BC
+AB
+AI
+#
